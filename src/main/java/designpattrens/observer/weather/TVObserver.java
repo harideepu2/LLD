@@ -4,6 +4,6 @@ public class TVObserver implements ObserverInterface{
 
     @Override
     public void update(int temp) {
-        System.out.println("Tab current Temp: " +temp);
+        System.out.println("TV current Temp: " +temp);
     }
 }
